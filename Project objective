@@ -1,0 +1,9 @@
+Problem Statement:
+Sales data for 1559 products across 10 stores in different
+cities. Attributes of each product and store have been defined.
+
+Objective:
+•Build a predictive model and find out the sales of each product at a particular store
+•Using elastic Net regression techniques, interpret the coefficients of the model
+•Make predictions using the model
+•Evaluate model efficiency using RMSE and R Square values
